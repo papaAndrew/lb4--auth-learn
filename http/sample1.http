@@ -1,0 +1,9 @@
+
+
+GET http://[::1]:3000/whoami
+Authorization: Basic cGFwYUFuZHJldzpiaWdwYXBh
+
+
+###
+GET http://[::1]:3000/whoami
+Authorization: Basic cGFwYUFuZHJldzpiaWdwYXBhMTE=

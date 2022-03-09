@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "UserInfo": 2
+  },
+  "models": {
+    "UserInfo": {
+      "1": "{\"id\":\"1\",\"name\":\"papaAndrew\",\"password\":\"bigpapa\",\"email\":\"papa@mail.ru\"}"
+    }
+  }
+}
